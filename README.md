@@ -1,4 +1,7 @@
-# PR Markdown Previewer
+# PR Markdown Previewer - @hagi4u
+
+## Action Item
+[ ] .md path 로 끝나면 preview 띄우게 해보기
 
 **Live Markdown Preview while writing GitHub Pull Requests**  
 **GitHub PR 작성 중 마크다운을 실시간으로 미리 볼 수 있는 크롬 익스텐션입니다.**
